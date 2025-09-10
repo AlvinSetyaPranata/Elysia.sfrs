@@ -1,6 +1,6 @@
-# 🌸 Elysia
+# 🌸 Elysia.insight
 
-Elysia is an SFRS (student field recommendation system) that helps students discover which academic field, major, or program they should apply to.  
+Elysia.insight is an SFRS (student field recommendation system) that helps students discover which academic field, major, or program they should apply to.  
 By analyzing student data such as interests, performance, and preferences, Elysia suggests the most suitable pathways for academic and career growth.  
 
 ---
